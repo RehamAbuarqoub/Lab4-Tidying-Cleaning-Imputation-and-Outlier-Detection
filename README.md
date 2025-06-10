@@ -1,11 +1,10 @@
 # Reham Abuarqoub   9062922
 # Lab4-Tidying-Cleaning-Imputation-and-Outlier-Detection
-Lab4 - Tidying, Cleaning, Imputation, and Outlier Detection 
 
 
-This assignment focuses on developing essential data preprocessing skills critical for any data-driven project. It covers techniques such as data cleaning, handling missing values through imputation, and identifying and managing outliers. These preprocessing steps are foundational for ensuring high-quality data and reliable analysis.
-
-In addition to technical data handling, this assignment also emphasizes software engineering best practices. These include enhancing documentation clarity, ensuring replicability across different environments, and using version control to manage code changes effectively.
+This lab focused on data tidying, cleaning, handling missing values through imputation, and detecting/removing outliers.
+It included structured exercises on the Cars and Diabetes datasets using Pandas, Seaborn, and NumPy.
+Software engineering practices like markdown documentation, code replicability, and version control with GitHub were also implemented.
 
 
 
